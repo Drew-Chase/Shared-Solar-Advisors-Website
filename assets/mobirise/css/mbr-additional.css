@@ -1121,8 +1121,7 @@ a.btn-white {
 }
 @media (min-width: 992px) {
   .cid-ts064HhKwW .text-wrapper {
-    padding-right: 0;
-    padding-left: 2rem;
+    padding-right: 2rem;
   }
 }
 @media (max-width: 991px) {
